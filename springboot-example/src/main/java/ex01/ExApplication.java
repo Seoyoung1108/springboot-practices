@@ -8,7 +8,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class ExApplication { // Bootstrapping Class
+public class ExApplication { // Bootstrap Class
 	
 	@Bean
 	public Map<?,?> myMap() {
